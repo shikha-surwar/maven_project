@@ -3,6 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 <!--new comment added to master pom.xml -->
 <!-- new wala commit in local_repo -->
+<!-- another changes in local_branch -->
 	<groupId>com.github.kevinsawicki</groupId>
 	<artifactId>github-maven-example</artifactId>
 	<version>0.1-SNAPSHOT</version>
