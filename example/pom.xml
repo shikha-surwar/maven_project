@@ -165,4 +165,6 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	
+	<!--Hi this is change in maven_project1-->
 </project>
