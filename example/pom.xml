@@ -40,7 +40,8 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-
+<!-- changes in maven1 repository -->
+<!-- changes for merge conflict -->
 	<build>
 		<plugins>
 			<plugin>
